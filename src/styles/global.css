@@ -1,8 +1,8 @@
 body {
-	font-family: Verdana, sans-serif;
+	font-family: Courier, monospace;
 	margin: auto;
-	padding: 1rem;
-	max-width: 50rem;
+	padding: 0 2rem;
+	max-width: 36rem;
 	text-align: left;
 	line-height: 1.61;
 	color: #4d5156;
