@@ -4,13 +4,23 @@ import { SITE_TITLE } from '../consts';
 ---
 
 <header>
-	<h2>
+	<span>
 		{SITE_TITLE}
-	</h2>
+	</span>
 	<nav>
 		<HeaderLink href="/">Home</HeaderLink>
-		<HeaderLink href="/projects">Projects</HeaderLink>
-		<HeaderLink href="/podcast">Podcast</HeaderLink>
+		<!-- <HeaderLink href="/projects">Projects</HeaderLink>
+		<HeaderLink href="/podcast">Podcast</HeaderLink> -->
 		<HeaderLink href="/blog">Blog</HeaderLink>
 	</nav>
 </header>
+
+<style>
+	header {
+		margin-top: 1rem;
+	}
+	span {
+		font-size: x-large;
+		font-weight: bold;
+	}
+</style>
