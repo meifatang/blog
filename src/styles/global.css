@@ -1,14 +1,11 @@
 body {
-	font-family: system-ui;
+	font-family: Menlo, Monaco, 'Courier New', monospace;
 	margin: auto;
 	padding: 0 2rem;
-	max-width: 36rem;
+	max-width: 40rem;
 	text-align: left;
 	line-height: 1.61;
 	color: #4d5156;
-}
-h1 {
-	font-family: monospace;
 }
 a {
 	color: #1a73e8;
