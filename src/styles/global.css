@@ -7,6 +7,9 @@ body {
 	line-height: 1.61;
 	color: #4d5156;
 }
+h1 {
+	font-family: monospace;
+}
 a {
 	color: #1a73e8;
 	text-decoration: none;
